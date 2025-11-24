@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end
 
 
-#include<bits/stdc++>
+#include<bits/stdc++.h>
 using namespace std;
 
 
