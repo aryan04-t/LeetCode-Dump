@@ -62,7 +62,7 @@ TAGS: [RATING, DIFFICULTY, APPROACH, ERRORS, STL, CONCEPTS]
 
 - **RATING**: Question rating (number) derived from [LeetCode Difficulty Rating extension](https://chromewebstore.google.com/detail/hedijgjklbddpidomdhhngflipnibhca?utm_source=item-share-cb), or `N/A`
 - **DIFFICULTY**: `EASY` | `MEDIUM` | `HARD`
-- **APPROACH**: `NAIVE` | `OPTIMAL` | `MOST OPTIMAL`
+- **APPROACH**: `NAIVE` | `NAIVE OPTIMAL` | `OPTIMAL` | `MOST OPTIMAL`
 - **ERRORS**: `TLE ERROR` | `MLE ERROR` | (empty if none)
 - **STL**: `STL` | (Empty if no uncommon stl function used)
 - **CONCEPTS**: Problem-specific tags like `ARRAY`, `STRING`, `MAXIMIZING SUM`, `HASH MAP`, `HASH SET`, `SLIDING WINDOW`, `MODULAR ARITHMETIC`, `INTUITION INVERSION`, `DIVISION`, `SUBARRAY`, `SUBSTRING`, `REVERSING`, `BINARY STRING`, `BINARY NUMBER`, `DECIMAL NUMBER`, `DECIMAL STRING`, `BIT MANIPULATION`, `TREE`, `GRAPH`, `DFS`, `BFS`, `DP`, `PERIMETER`, `AREA`, `DIVISIBILITY`, `PREFIX SUM` etc.
