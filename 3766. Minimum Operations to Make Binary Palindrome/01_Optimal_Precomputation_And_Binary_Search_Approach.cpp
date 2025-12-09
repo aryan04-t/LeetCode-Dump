@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE OPTIMAL], [PALINDROME], [BINARY NUMBER], [BINARY SEARCH] 
+// TAGS: [RATING: N/A], [MEDIUM], [OPTIMAL], [STL] [PALINDROME], [BINARY NUMBER], [BINARY SEARCH], [STATIC VARIABLE], [PRE-COMPUTATION]
 
 
 #include<bits/stdc++.h>
@@ -39,7 +39,7 @@ public:
     }
 
     void buildPalindromeNums () {
-        
+
         int num = 1;
         while (num < 5001) {
             if (isBinaryPalindrome(num)) {
@@ -61,7 +61,7 @@ public:
     vector<int> minOperations(vector<int>& nums) {
         
         vector<int> ans;
-        
+    
         if (palindromeNums.size() == 0) {
             buildPalindromeNums();
         }
@@ -97,7 +97,7 @@ public:
 };
 
 
-// T.C. = O(n*(13 + (13/2))) + O(n*(log(n) to the base 2)) = O(n*log(n)) 
-// S.C. = O(n) 
+// T.C. = O(5049 * (log(5049) to the base 2)) + O(n*(log(k) to the base 2)) = O(5049 * 13) + O(n*log(k)) = O(n*log(k)) 
+// S.C. = O(k) 
 
-// 13 bits can represet the max value 5,001 
+// n = the length of nums array, k = the total number of palindromic binary numbers in the range [1. 5049] 
