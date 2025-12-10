@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/maximum-substrings-with-distinct-start 
 
 
-// TAGS: [RATING: 1364], [MEDIUM], [NAIVE OPTIMAL], [STRING], [BIT MASKING], [BIT MANIPULATION] 
+// TAGS: [RATING: 1364], [MEDIUM], [MOST OPTIMAL], [STRING], [BIT MASKING], [BIT MANIPULATION] 
 
 
 #include<bits/stdc++.h>
