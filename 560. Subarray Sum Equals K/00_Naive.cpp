@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/subarray-sum-equals-k 
 
 
-// TAGS: [RATING: N/A], [MEDIUM], [NAIVE], [SUBARRAY], [SUM]
+// TAGS: [RATING: N/A], [MEDIUM], [NAIVE], [ARRAY], [SUBARRAY], [SUM]
 
 
 #include<bits/stdc++.h>

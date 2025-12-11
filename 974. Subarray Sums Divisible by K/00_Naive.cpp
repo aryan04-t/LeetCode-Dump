@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/subarray-sums-divisible-by-k 
 
 
-// TAGS: [RATING: 1675], [MEDIUM], [NAIVE], [TLE ERROR], [SUBARRAY], [SUM], [MODULAR ARITHMETIC] 
+// TAGS: [RATING: 1675], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SUBARRAY], [SUM], [MODULAR ARITHMETIC] 
 
 
 #include<bits/stdc++.h>

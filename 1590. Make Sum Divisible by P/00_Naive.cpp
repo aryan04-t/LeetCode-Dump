@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/make-sum-divisible-by-p 
 
 
-// TAGS: [RATING: 2038], [MEDIUM], [NAIVE], [TLE ERROR], [SUBARRAY], [PREFIX SUM], [MODULAR ARITHMETIC], [DIVISIBILITY] 
+// TAGS: [RATING: 2038], [MEDIUM], [NAIVE], [TLE ERROR], [ARRAY], [SUBARRAY], [PREFIX SUM], [MODULAR ARITHMETIC], [DIVISIBILITY] 
 
 
 #include<bits/stdc++.h>
