@@ -115,6 +115,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `ODD` 
         - `DIFFERENCE TRACKING` 
         - `NEGATIVE REMAINDER`
+        - `SUM`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
