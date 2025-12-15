@@ -119,6 +119,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `HEAP`
         - `C++ STRING STREAM`
         - `COUNTING`
+        - `GREEDY`
+        - `CIRCULAR ARRAY`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
