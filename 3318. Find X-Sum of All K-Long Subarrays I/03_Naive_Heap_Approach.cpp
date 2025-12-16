@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i 
 
 
-// TAGS: [RATING: 1457], [EASY], [NAIVE], [STL], [ARRAY], [HASH MAP], [COUNTING], [SUM], [HEAP], [MIN HEAP] 
+// TAGS: [RATING: 1457], [EASY], [NAIVE], [STL], [ARRAY], [HASH MAP], [COUNTING], [SUM], [HEAP], [MIN HEAP], [K LARGEST OR SMALLEST ELEMENTS]  
 
 
 #include<bits/stdc++.h>
