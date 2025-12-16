@@ -72,7 +72,7 @@ public:
 };
 
 
-// T.C = O(n*(m + m*log(m) + min(x, m))) = O(n*m*log(m)) = O((n^2)*(log(n) to the base 2)) 
+// T.C = O((n-k+1)*(m + m*log(m) + min(x, m))) = O(n*m*log(m)) = O((n^2)*(log(n) to the base 2)) 
 // S.C. = O(m) + O(m) + O(log(m) to the base 2) + O(n-k+1) = O(n) 
 
 // Here, m = the total number of unique elements in the window of size k, and in worst case m == k == n, and x == n 
