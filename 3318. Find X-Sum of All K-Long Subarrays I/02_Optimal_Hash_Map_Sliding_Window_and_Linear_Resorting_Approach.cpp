@@ -146,4 +146,4 @@ public:
 
 // S.C. = O(m) + O(m) + O(log(m) to the base 2) + O(n-k+1) = O(n) 
 
-// Here, m = the number of unique elements in the hash map, in worst case, m == k == n, x == n 
+// Here, m = the total number of unique elements in the window of size k, and in worst case m == k == n, and x == n 
