@@ -117,6 +117,8 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `NEGATIVE REMAINDER`
         - `SUM`
         - `HEAP`
+        - `MIN HEAP`
+        - `MAX HEAP`
         - `C++ STRING STREAM`
         - `COUNTING`
         - `GREEDY`
