@@ -130,6 +130,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
         - `PREFIX SUM - CYCLIC HASH - SUBARRAY REDUCTION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Prefix%20Sum%20-%20Cyclic%20Hash%20-%20Subarray%20Reduction.md) 
+        - `K LARGEST OR SMALLEST ELEMENTS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/K%20Largest%20or%20Smallest%20Elements.md) 
 
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
