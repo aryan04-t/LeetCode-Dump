@@ -126,6 +126,7 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
         - `TWO POINTER`
         - `PAIR SORTING`
         - `LINEAR RESORTING`
+        - `RECURSION`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
