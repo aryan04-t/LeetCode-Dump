@@ -73,67 +73,128 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
     - Basic Concept Tags (Basic Concepts, Data Structures and Patterns):
         - `ARRAY` 
+        
         - `STRING` 
+
         - `MAXIMIZING` 
+
         - `MINIMIZING` 
+
+
         - `HASH MAP` 
+
         - `HASH SET` 
+
+
         - `SLIDING WINDOW` 
+
         - `MODULAR ARITHMETIC`
+
         - `INTUITION INVERSION` 
+
         - `DIVISION`
+
         - `SUBARRAY` 
+
         - `SUBSTRING`
+
         - `REVERSING` 
+
         - `BINARY SEARCH`
+
         - `PALINDROME`
+
         - `BINARY STRING` 
+
         - `BINARY NUMBER` 
+
         - `DECIMAL NUMBER`
+
         - `DECIMAL STRING`
+
         - `BIT MANIPULATION` 
+
         - `TREE` 
+
         - `GRAPH` 
+
         - `DFS`
+
         - `BFS` 
+
         - `DP` 
+
         - `PERIMETER` 
+
         - `AREA` 
+
         - `DIVISIBILITY` 
+
         - `PREFIX SUM` 
+
         - `STATIC VARIABLE` 
+
         - `CUSTOM SORT` 
+
         - `SORTING` 
+
         - `CUSTOM HASHING` 
+
         - `PRE-COMPUTATION` 
+
         - `HASH VECTOR` 
+
         - `SIMULATION` 
+
         - `BIT MASKING` 
+
         - `REVERSING` 
+
         - `EVEN AND ODD` 
+
         - `EVEN` 
+
         - `ODD` 
+
         - `DIFFERENCE TRACKING` 
+
         - `NEGATIVE REMAINDER`
+
         - `SUM`
+
         - `HEAP`
+
         - `MIN HEAP`
+
         - `MAX HEAP`
+
         - `C++ STRING STREAM`
+
         - `COUNTING`
+
         - `GREEDY`
+
         - `CIRCULAR ARRAY`
+
         - `TWO POINTER`
+
         - `PAIR SORTING`
+
         - `LINEAR RESORTING`
+
         - `RECURSION`
+
         - `CHARS TO STRING C++`
         - etc.
     
     - Compound Concept Tags (Compound Concepts & Patterns): 
         - `PREFIX SUM - CYCLIC HASH - SUBARRAY REDUCTION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Prefix%20Sum%20-%20Cyclic%20Hash%20-%20Subarray%20Reduction.md) 
+
         - `K LARGEST OR SMALLEST ELEMENTS` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/K%20Largest%20or%20Smallest%20Elements.md) 
-        - `GUARD CLAUSES` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Guard%20Clauses.md)
+
+        - `GUARD CLAUSES` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Guard%20Clauses.md) 
+
+        - `CHARACTER BOUND OPTIMIZATION` - [Description](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/Compound%20Tags%20Description/Character%20Bound%20Optimization.md) 
 
 
 This tagging system allows quick grep/search filtering to practice specific topics or approaches without needing documentation overhead.
