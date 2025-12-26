@@ -173,6 +173,8 @@
 
     - Only works on sorted arrays 
 
+  - `swap()` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/00_Naive_Approach.cpp) 
+
 ### 7. Iterators 
 
   - `Iterator Arithmetic of vector<data_type>::iterator it`

@@ -76,7 +76,11 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
         - `STRING` | [Example Code](http://github.com/aryan04-t/LeetCode-Jog/blob/master/01_Arrays/00_1-D%20Array/051_3254.%20Find%20the%20Power%20of%20K-Size%20Subarrays%20I/00_My_Naive_Repetitive_Iterative_Approach.cpp)
 
-        - `MAXIMIZING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/03_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
+        - `MAXIMIZING` 
+        
+            - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/03_Most_Optimal_Prefix_Sum_and_Hash_Map_Approach.cpp) 
+
+            - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/00_Naive_Approach.cpp) 
 
         - `MINIMIZING` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/02_Most_Optimal_Hash_Map_Decimal_Number_Reversing_Approach.cpp) 
 
@@ -170,13 +174,21 @@ TAGS: { [RATING], [DIFFICULTY], [APPROACH], [...ERRORS], [STL], [...CONCEPTS, ..
 
         - `MIN HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Jog/blob/master/12_Heaps/005_703.%20Kth%20Largest%20Element%20in%20a%20Stream/00_My_Optimal_Min_Heap_Approach.cpp) 
 
-        - `MAX HEAP` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
+        - `MAX HEAP` 
+            
+            - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3774.%20Absolute%20Difference%20Between%20Maximum%20and%20Minimum%20K%20Elements/03_Most_Optimal_Heap_Approach.cpp) 
+
+            - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/01_Optimal_Heap_Approach.cpp) 
 
         - `C++ STRING STREAM` | [Example Code](http://github.com/aryan04-t/LeetCode-Sprint/blob/master/3775.%20Reverse%20Words%20With%20Same%20Vowel%20Count/02_Most_Optimal.cpp) | [My Notes](https://github.com/aryan04-t/LeetCode-Jog/tree/master/00_Maths%20and%20Coding%20-%20Fundamentals%20and%20Tricks%20for%20Revision/00_stringstream%20Notes)
 
         - `COUNTING` 
 
-        - `GREEDY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 
+        - `GREEDY` 
+        
+            - [Example Code-1](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/00_Optimal.cpp) 
+
+            - [Example Code-2](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3781.%20Maximum%20Score%20After%20Binary%20Swaps/01_Optimal_Heap_Approach.cpp) 
 
         - `CIRCULAR ARRAY` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3776.%20Minimum%20Moves%20to%20Balance%20Circular%20Array/02_Most_Optimal_Greedy_Approach.cpp)
 
