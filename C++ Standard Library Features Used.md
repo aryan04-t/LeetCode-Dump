@@ -268,10 +268,11 @@
 
     - A special **Header**
 
-### 12. Time Complexity Analysis
+### 12. Complexity Analysis
 
-  - `Geometric Progression (GP) Based Analysis` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
+  - `Geometric Progression (GP) Based Time Complexity Analysis` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3782.%20Last%20Remaining%20Integer%20After%20Alternating%20Deletion%20Operations/00_Naive_Simulation_Approach.cpp) 
 
+  - `Exponential Recursion Time Complexity Analysis` | [Example Code](https://github.com/aryan04-t/LeetCode-Sprint/blob/master/3746.%20Minimum%20String%20Length%20After%20Balanced%20Removals/00_Naive_Simulation_Approach.cpp) 
 
 
 ### FILL IN ALL THE `EMPTY_LINKS` 
